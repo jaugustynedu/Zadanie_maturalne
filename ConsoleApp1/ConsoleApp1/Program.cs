@@ -1,19 +1,22 @@
 ﻿using System;
-
+/*
+ User podaje ile liczb pierwszych chce zobaczyć
+(while)
+ */
 namespace ConsoleApp1
 {
     class Program
     {
-        static string prime_numbers(int x)
+        static bool prime_numbers(int x)
         {
             for (int i = 2; i < x; i++)
             {
                 if (x % i == 0)
                 {
-                    return x+" jest liczbą pierwszą";
+                    return false;
                 }
             }
-            return x + " nie jest liczbą pierwszą"; ;
+            return true;
             
 
         }
