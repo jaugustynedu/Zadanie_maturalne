@@ -1,0 +1,16 @@
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+D:\Users\Jakub.Augustyn\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
