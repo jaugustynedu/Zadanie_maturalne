@@ -1,0 +1,15 @@
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\bin\Debug\net5.0\Zadanie_identyfikator.exe
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\bin\Debug\net5.0\Zadanie_identyfikator.deps.json
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\bin\Debug\net5.0\Zadanie_identyfikator.runtimeconfig.json
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\bin\Debug\net5.0\Zadanie_identyfikator.runtimeconfig.dev.json
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\bin\Debug\net5.0\Zadanie_identyfikator.dll
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\bin\Debug\net5.0\ref\Zadanie_identyfikator.dll
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\bin\Debug\net5.0\Zadanie_identyfikator.pdb
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\Zadanie_identyfikator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\Zadanie_identyfikator.AssemblyInfoInputs.cache
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\Zadanie_identyfikator.AssemblyInfo.cs
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\Zadanie_identyfikator.csproj.CoreCompileInputs.cache
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\Zadanie_identyfikator.dll
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\ref\Zadanie_identyfikator.dll
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\Zadanie_identyfikator.pdb
+D:\Users\Jakub.Augustyn\source\repos\Zadanie_identyfikator\Zadanie_identyfikator\obj\Debug\net5.0\Zadanie_identyfikator.genruntimeconfig.cache
